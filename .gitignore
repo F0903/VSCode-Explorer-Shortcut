@@ -1,0 +1,6 @@
+.git
+.vs
+x64
+Win32
+*.vcxproj.filter
+*.vcxproj.user
