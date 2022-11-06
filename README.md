@@ -1,8 +1,7 @@
 # VSCode-Explorer-Shortcut
-A one-line bat file to quickly launch VSCode with your current directory from the File Explorer address bar.
 
-Put this file in a directory somewhere, then add that directory to the [Windows PATH](https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7) and you're done!
-You can now simply open your current folder in VSCode from the File Explorer address bar by typing "vscode" and pressing enter.
+A tiny program that allows you to quickly open you current directory in VSCode from the File Explorer address line.
 
-Note: 
-If you manually changed your VSCode install location, you will have to tweak the path in the bat file.
+Simply compile the program, put it in a directory somewhere, and add this directory to the [Windows PATH](https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7).
+
+If you don't have VSCode installed in the default location, you will have to create a system variable called "VSCODE_EXE" with the exact path to the VSCode executable.
