@@ -1,5 +1,7 @@
 # VSCode-Explorer-Shortcut
 
+**REDUNDANT**
+
 A tiny program that allows you to quickly open you current directory in VSCode from the File Explorer address line.
 
 Simply compile the program, put it in a directory somewhere, rename it to "vscode.exe", and add this directory to the [Windows PATH](https://gist.github.com/nex3/c395b2f8fd4b02068be37c961301caa7).
